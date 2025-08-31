@@ -1,5 +1,3 @@
-# Nisha-s-Social-Media-Content-Analyzer
-Here’s a README template tailored for “Nisha's Social Media Content Analyzer” 👇
 
 # 📊 Nisha's Social Media Content Analyzer  
 
@@ -44,10 +42,8 @@ npm run build
 
 
 ## images
+<img src="https://github.com/user-attachments/assets/e1127ef6-64e6-4b44-b517-dc2eba0b0d0d" alt="Screenshot 466" width="600" />
 
-<img width="1920" height="1080" alt="Screenshot (466)" src="https://github.com/user-attachments/assets/e1127ef6-64e6-4b44-b517-dc2eba0b0d0d" />
+<img src="https://github.com/user-attachments/assets/01a0418d-a013-40e2-84ad-bc1a3a22e0bd" alt="Screenshot 467" width="600" />
 
-<img width="1920" height="1080" alt="Screenshot (467)" src="https://github.com/user-attachments/assets/01a0418d-a013-40e2-84ad-bc1a3a22e0bd" />
-
-<img width="1920" height="1080" alt="Screenshot (468)" src="https://github.com/user-attachments/assets/a4c0659d-41e8-4bca-bcb8-8ae4e460f7c6" />
-
+<img src="https://github.com/user-attachments/assets/a4c0659d-41e8-4bca-bcb8-8ae4e460f7c6" alt="Screenshot 468" width="600" />
