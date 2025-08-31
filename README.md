@@ -39,11 +39,3 @@ npm start
 ## Build for production:
 npm run build
 
-
-
-## images
-<img src="https://github.com/user-attachments/assets/e1127ef6-64e6-4b44-b517-dc2eba0b0d0d" alt="Screenshot 466" width="600" />
-
-<img src="https://github.com/user-attachments/assets/01a0418d-a013-40e2-84ad-bc1a3a22e0bd" alt="Screenshot 467" width="600" />
-
-<img src="https://github.com/user-attachments/assets/a4c0659d-41e8-4bca-bcb8-8ae4e460f7c6" alt="Screenshot 468" width="600" />
